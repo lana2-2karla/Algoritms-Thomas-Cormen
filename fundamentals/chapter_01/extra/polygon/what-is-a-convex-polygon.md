@@ -8,7 +8,7 @@ Um polígono convexo é aquele em que nenhuma linha entre dois pontos dentro da 
 
 ---
 
-## 📌 O que é um polígono não convexo (ou côncavo)?
+# 📌 O que é um polígono não convexo (ou côncavo)?
 Um polígono côncavo tem pelo menos um ângulo interno maior que 180° e reentrâncias, ou seja, "dobras para dentro".
 
 ### ❌ Características:
