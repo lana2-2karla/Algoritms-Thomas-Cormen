@@ -13,12 +13,12 @@ Esses segmentos são chamados de **lados**, e os pontos onde eles se encontram s
 Aqui estão exemplos comuns de polígonos. Vou descrever cada um visualmente:  
 
 ### 🔺 Triângulo (3 lados)
-
+```text
     ●
    / \
   /   \
  ●-----●
-
+```
 - **Lados:** 3  
 - **Vértices:** 3  
 - Fechado, com segmentos retos.  
