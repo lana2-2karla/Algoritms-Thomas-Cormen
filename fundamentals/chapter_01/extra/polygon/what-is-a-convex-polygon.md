@@ -95,7 +95,7 @@ Um polígono côncavo tem pelo menos um ângulo interno maior que 180° e reentr
 
 ---
 
-# 🧪 Teste visual simples: "linha interna"
+## 🧪 Teste visual simples: "linha interna"
 
  - Polígono Convexo: A reta nunca sai para fora da borda. Todos os ângulos < 180°.
  - Polígono Côncavo: A reta pode sair da figura. Algum ângulo interno > 180°
