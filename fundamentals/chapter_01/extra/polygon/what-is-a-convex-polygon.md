@@ -1,4 +1,4 @@
-# 📌 O que é um polígono convexo?
+# 📌 O que é um polígono convexo e um polígono côncavo?
 Um polígono convexo é aquele em que nenhuma linha entre dois pontos dentro da figura sai para fora da figura.
 
 ### ✅ Características:
@@ -18,7 +18,7 @@ Um polígono côncavo tem pelo menos um ângulo interno maior que 180° e reentr
 
 ---
 
-# 🎨 Exemplos visuais e descrições
+## 🎨 Exemplos visuais e descrições
 
 ## ✅ Polígonos Convexos
 
