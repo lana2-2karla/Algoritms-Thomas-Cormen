@@ -24,30 +24,30 @@ Aqui estão exemplos comuns de polígonos. Vou descrever cada um visualmente:
 - Fechado, com segmentos retos.  
 
 ### ◼️ Quadrado (4 lados iguais, ângulos retos)
-
+```text
  ●--------●
  |        |
  |        |
  ●--------●
-
+```
 - **Lados:** 4  
 - Todos os lados são do mesmo tamanho.  
 - Todos os ângulos são de 90°.  
 
 ### 🔷 Retângulo (4 lados, ângulos retos)  
-
+```text
  ●-----●
  |     |
  |     |
  |     |
  ●-----●
-
+```
 - Lados opostos iguais.  
 - Todos os ângulos = 90°.  
 - É um polígono!  
 
 ### 🔷 Losango (4 lados iguais, sem ângulos retos)
-
+```text
     ●
    / \
   /   \
@@ -55,19 +55,19 @@ Aqui estão exemplos comuns de polígonos. Vou descrever cada um visualmente:
   \   /
    \ /
     ●
-
+```
 - 4 lados iguais.  
 - Ângulos não retos.  
 - Também é um polígono!  
 
 ### 🔸 Hexágono (6 lados)
-
+```text
    ●-----●
   /       \
  ●         ●
   \       /
    ●-----●
-
+```
 - Parece uma colmeia de abelha — 6 lados, todos iguais, muito comum em naturezas repetitivas.  
 
 ---
@@ -82,28 +82,29 @@ Alguns exemplos:
 - **Não é um polígono.**  
 
 ### ❌ Uma linha aberta  
-
+```text
 ●─────●─────●
-
+```
 - Não forma um contorno fechado.  
 - **Não é polígono.**  
 
 ### ❌ Uma figura com curvas
-
+```text
   (    )
  (      )
   (    )
-
+```
 - Curvas = não são segmentos retos.  
 - **Também não é polígono.**  
 
 ---
 
 ## 📌 Requisitos para ser um polígono:
-
+```text
   Requisito                     Obrigatório?   
 
   Segmentos retos               ✅ Sim           
   Contorno fechado              ✅ Sim         
   Sem sobreposição              ✅ Normalmente 
   Pode ter ângulos diferentes   ✅ Sim     
+```
