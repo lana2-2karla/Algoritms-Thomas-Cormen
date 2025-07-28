@@ -102,6 +102,6 @@ Um polígono côncavo tem pelo menos um ângulo interno maior que 180° e reentr
 
 ---
 
-# 🧠 Dica prática para lembrar:
+## 🧠 Dica prática para lembrar:
 - **Convexo:** Se nenhum dos lados da figura "entra para dentro"
 - **Côncavo:** Se parece que alguém mordeu a figura ou ela tem um buraco para dentro
